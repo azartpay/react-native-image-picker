@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcshilling/react-native-image-picker.git"
+    "url": "git://github.com/azartpay/react-native-image-picker"
   },
   "nativePackage": true,
   "author": "Marc Shilling (marcshilling)",
